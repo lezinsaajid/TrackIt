@@ -26,9 +26,6 @@ TrackIt is a modern, feature-rich, and visually stunning TODO application design
 | :---: | :---: |
 | ![Dashboard](Screenshot%202026-03-01%20at%2020.09.15.png) | ![Search](Screenshot%202026-03-01%20at%2020.09.22.png) |
 
-| Light/Dark Mode |
-| :---: |
-| ![DarkMode](Screenshot%202026-02-21%20at%2019.04.43.png) |
 
 ## 🛠️ Technologies Used
 
